@@ -23,7 +23,7 @@ Configure your settings in config.php.
 
 Run
 ----
-./mythbot.php &>mythbot.log &
+./mythbot.php 2>&1 >mythbot.log &
 
 
 With questions contact me at todd@toddejohnson.net (jabber and email).  
